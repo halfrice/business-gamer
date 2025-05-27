@@ -8,6 +8,7 @@ const RootLayout = ({
   return (
     <html lang="en">
       <body>
+        Layout
         {children}
       </body>
     </html>
